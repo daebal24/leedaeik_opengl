@@ -1,0 +1,18 @@
+﻿  source.cpp
+C:\Users\iku\source\repos\OGproject\OGproject\glaux.h(17,9): warning C4068: 알 수 없는 pragma 'option'
+C:\Users\iku\source\repos\OGproject\OGproject\glaux.h(374,9): warning C4068: 알 수 없는 pragma 'option'
+C:\Users\iku\source\repos\OGproject\OGproject\source.cpp(145,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+source.obj : error LNK2019: auxDIBImageLoadA"struct _AUX_RGBImageRec * __cdecl LoadBMP(char *)" (?LoadBMP@@YAPEAU_AUX_RGBImageRec@@PEAD@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutInitDisplayModemain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutInitWindowPositionmain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutInitWindowSizemain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutMainLoopmain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp___glutCreateWindowWithExitglutCreateWindow_ATEXIT_HACK 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutPostRedisplay"void __cdecl MyMotion(int,int)" (?MyMotion@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutSwapBuffers"void __cdecl MyDisplay(void)" (?MyDisplay@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutDisplayFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutReshapeFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutMouseFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+source.obj : error LNK2019: __imp_glutMotionFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+glut32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\iku\source\repos\OGproject\x64\Debug\OGproject.exe : fatal error LNK1120: 12개의 확인할 수 없는 외부 참조입니다.

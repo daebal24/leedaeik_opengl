@@ -1,0 +1,19 @@
+﻿main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutKeyboardUpFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutReshapeFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glutCreateWindowWithExit
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutMouseFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___glutInitWithExit
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutWireSphere
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutKeyboardFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutSolidCube
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutIdleFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutInitDisplayMode
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutSpecialFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutWireTeapot
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutDisplayFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutMainLoop
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutInitWindowPosition
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutMotionFunc
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutInitWindowSize
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glutSwapBuffers
+C:\Users\iku\source\repos\OGproject\x64\Release\OGproject.exe : fatal error LNK1120: 18개의 확인할 수 없는 외부 참조입니다.
